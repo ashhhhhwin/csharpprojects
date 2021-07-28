@@ -1,0 +1,13 @@
+D:\LTI Training\c#\Day2\Day2\obj\Debug\netcoreapp3.1\Day2.csproj.AssemblyReference.cache
+D:\LTI Training\c#\Day2\Day2\obj\Debug\netcoreapp3.1\Day2.AssemblyInfoInputs.cache
+D:\LTI Training\c#\Day2\Day2\obj\Debug\netcoreapp3.1\Day2.AssemblyInfo.cs
+D:\LTI Training\c#\Day2\Day2\obj\Debug\netcoreapp3.1\Day2.csproj.CoreCompileInputs.cache
+D:\LTI Training\c#\Day2\Day2\bin\Debug\netcoreapp3.1\Day2.exe
+D:\LTI Training\c#\Day2\Day2\bin\Debug\netcoreapp3.1\Day2.deps.json
+D:\LTI Training\c#\Day2\Day2\bin\Debug\netcoreapp3.1\Day2.runtimeconfig.json
+D:\LTI Training\c#\Day2\Day2\bin\Debug\netcoreapp3.1\Day2.runtimeconfig.dev.json
+D:\LTI Training\c#\Day2\Day2\bin\Debug\netcoreapp3.1\Day2.dll
+D:\LTI Training\c#\Day2\Day2\bin\Debug\netcoreapp3.1\Day2.pdb
+D:\LTI Training\c#\Day2\Day2\obj\Debug\netcoreapp3.1\Day2.dll
+D:\LTI Training\c#\Day2\Day2\obj\Debug\netcoreapp3.1\Day2.pdb
+D:\LTI Training\c#\Day2\Day2\obj\Debug\netcoreapp3.1\Day2.genruntimeconfig.cache
